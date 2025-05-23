@@ -1,0 +1,16 @@
+body{
+    width: 60%;
+margin: 0 auto;
+padding: 2% 0;
+background-color: coral;
+}
+section{
+    margin-top: 0px;
+padding-bottom: 5px;
+border-top: solid 1px gray;
+}
+main{
+    padding: 20px;
+    border-radius: 10px;
+    background-color: aliceblue;
+}
